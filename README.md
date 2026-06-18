@@ -206,4 +206,6 @@ Full Stack Developer · Estado de México
 
 ## 📄 Licencia
 
-MIT License — libre para uso personal y comercial.
+Copyright (c) 2026 Adán Loera Sánchez and Grupo Sallo S.A.S. de C.V. All rights reserved.
+This code is not open source. Viewing is permitted for portfolio purposes only.
+Copying, modifying, or distributing this code is strictly prohibited.
