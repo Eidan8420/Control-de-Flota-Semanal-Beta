@@ -59,7 +59,7 @@ vehicles
   ├── weekly_logs         (1:N)
   ├── maintenance_history (1:N)
   ├── pending_maintenance (1:N)
-  └── siniestros          (1:N)
+  └── vehicle_accidents   (1:N)
 ```
 
 Toda la seguridad se maneja con **Row Level Security (RLS)** en Supabase — cada usuario solo accede a sus propios vehículos y registros.
