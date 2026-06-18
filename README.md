@@ -62,71 +62,7 @@ vehicles
   └── siniestros          (1:N)
 ```
 
-Toda la seguridad se maneja con **Row Level Security (RLS)** en Supabase — cada usuario solo accede a sus propios vehículos y registros. El schema SQL completo está disponible en [`src/lib/supabase.ts`](src/lib/supabase.ts).
-
----
-
-## 🚀 Instalación y ejecución local
-
-### Prerequisitos
-- Android Studio
-- Visual Code
-- Node.js 20+
-- Cuenta en [Supabase](https://supabase.com) (gratuita)
-- API Key de [Google Gemini](https://ai.google.dev)
-
-### 1. Clonar el repositorio
-```bash
-git clone https://github.com/adan-loera/control-de-flota-semanal.git
-cd control-de-flota-semanal
-```
-
-### 2. Instalar dependencias
-```bash
-npm install
-```
-
-### 3. Configurar variables de entorno
-```bash
-cp .env.example .env.local
-```
-Edita `.env.local` con tus credenciales:
-```env
-VITE_SUPABASE_URL=https://tu-proyecto.supabase.co
-VITE_SUPABASE_ANON_KEY=tu_anon_key
-GEMINI_API_KEY=tu_gemini_api_key
-```
-
-### 4. Crear tablas en Supabase
-En el **SQL Editor** de tu proyecto Supabase, ejecuta el schema incluido en `src/lib/supabase.ts` (busca la constante `SUPABASE_SQL_SCHEMA`).
-
-### 5. Ejecutar en desarrollo
-```bash
-npm run dev
-```
-
-La app estará disponible en `http://localhost:5173`
-
----
-
-## 📱 Compilar APK para Android
-
-```bash
-# Build de producción
-npm run build
-
-# Sincronizar con Capacitor
-npx cap sync android
-
-# Abrir en Android Studio
-npx cap open android
-```
-
-En Android Studio: **Build → Generate Signed APK** o usar el emulador directamente.
-
-> Consulta [`android_studio_apk_troubleshooting.md`](android_studio_apk_troubleshooting.md) para solución de problemas comunes.
-
----
+Toda la seguridad se maneja con **Row Level Security (RLS)** en Supabase — cada usuario solo accede a sus propios vehículos y registros.
 
 ## 📂 Estructura del proyecto
 
