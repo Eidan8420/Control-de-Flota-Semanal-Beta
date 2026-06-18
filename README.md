@@ -168,7 +168,19 @@ control-de-flota-semanal/
 
 ## 📸 Screenshots
 
-> *(Agrega capturas de pantalla del dashboard, detalle de vehículo y reportes aquí)*
+
+<img width="1220" height="683" alt="image" src="https://github.com/user-attachments/assets/51758b44-0b1e-4bf0-b192-92742bacc00e" />
+<img width="462" height="666" alt="image" src="https://github.com/user-attachments/assets/9253bf18-22d0-4ce7-9af2-d913bc296b5e" />
+<img width="432" height="418" alt="image" src="https://github.com/user-attachments/assets/ae3960d8-fe6e-4d33-b516-347eb42bdf0b" />
+<img width="405" height="517" alt="image" src="https://github.com/user-attachments/assets/f5515c56-da22-49af-af33-4b969e054216" />
+<img width="456" height="662" alt="image" src="https://github.com/user-attachments/assets/727ce142-39ca-4ada-8e0f-ff60e9a1ad60" />
+<img width="442" height="346" alt="image" src="https://github.com/user-attachments/assets/31f02fcc-20e5-43f7-bd3b-1574ec28fdc8" />
+<img width="428" height="402" alt="image" src="https://github.com/user-attachments/assets/2d26f9b2-700d-4367-925b-45f79a06e055" />
+<img width="427" height="605" alt="image" src="https://github.com/user-attachments/assets/aa472e26-6010-4ec5-9f7e-6dfc896ef66e" />
+<img width="443" height="360" alt="image" src="https://github.com/user-attachments/assets/3ae7f223-2359-4e95-a2c1-577f35010875" />
+<img width="430" height="472" alt="image" src="https://github.com/user-attachments/assets/abdddc06-d9c1-4ee7-aeab-3c3c2f8f06f5" />
+<img width="418" height="553" alt="image" src="https://github.com/user-attachments/assets/61967064-708b-4688-922d-f7cb5dfb535a" />
+
 
 ---
 
