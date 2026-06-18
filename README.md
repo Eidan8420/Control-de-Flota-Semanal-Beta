@@ -69,6 +69,8 @@ Toda la seguridad se maneja con **Row Level Security (RLS)** en Supabase — cad
 ## 🚀 Instalación y ejecución local
 
 ### Prerequisitos
+- Android Studio
+- Visual Code
 - Node.js 20+
 - Cuenta en [Supabase](https://supabase.com) (gratuita)
 - API Key de [Google Gemini](https://ai.google.dev)
